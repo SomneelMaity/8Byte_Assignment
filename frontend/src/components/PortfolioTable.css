@@ -1,0 +1,26 @@
+.portfolio-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.portfolio-table th,
+.portfolio-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+
+.portfolio-table th {
+  background-color: #f4f4f4;
+}
+
+.gain {
+  color: green;
+  font-weight: bold;
+}
+
+.loss {
+  color: red;
+  font-weight: bold;
+}
